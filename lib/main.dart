@@ -65,7 +65,7 @@ class _My_HomeState extends State<My_Home> {
         ),
         themeMode: themechange.darkMode,
 
-        home: login_screen(),
+        home: Dark_Screen(),
       );
 
     })
